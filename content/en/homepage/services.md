@@ -6,7 +6,7 @@ weight: 1
 header_menu: true
 ---
 
-We offer archery sessions that are crafted for everyone – whatever your age, experience, or occasion.”
+We offer archery sessions that are crafted for everyone – whatever your age, experience, or occasion.
 
 ##### Instruction & Coaching
 
