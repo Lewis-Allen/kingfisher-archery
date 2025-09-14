@@ -20,8 +20,7 @@ From beginners to seasoned archers – personalized and group coaching designed 
 
 ![Instruction and Coaching](images/experiences.jpg)
 
-We offer tailored archery experiences including school programs, family and birthday celebrations, team-building, corporate retreats and fun group events, like hen parties.
-
+Tailored archery experiences including school programs, family and birthday celebrations, team-building, corporate retreats and fun group events, like hen parties.
 
 ##### Sound good?
 
