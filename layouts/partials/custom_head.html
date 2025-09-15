@@ -63,8 +63,30 @@
      max-height: 150px;
 }
 
- #site-head.withCenteredImage {
-     filter: grayscale(0);
+.card {
+  /* Add shadows to create the "card" effect */
+  border: 2px solid rgba(211, 121, 57, 0.3);
+  transition: 0.3s;
+  max-width: 325px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 #D37939;
+}
+
+/* Add some padding inside the card container */
+.card-container {
+  padding: 2px 16px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.flex {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     row-gap: 25px;
 }
 
 

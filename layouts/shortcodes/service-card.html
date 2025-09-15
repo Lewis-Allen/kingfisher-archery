@@ -1,0 +1,17 @@
+<!-- 
+
+    image-src:
+    image-alt:
+    title:
+    url:
+
+-->
+
+<div class="card">
+  <img class="card-image" src="{{.Get `image-src`}}" alt="{{.Get `image-alt`}}" style="width: 100%" >
+  <div class="card-container">
+    <h4><b>{{.Get `title`}}</b></h4>
+    <p>{{.Inner}}</p>
+    <a href="{{.Get `url`}}">Read More..</a>
+  </div>
+</div>
