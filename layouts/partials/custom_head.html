@@ -71,8 +71,10 @@
 }
 
 /* On mouse-over, add a deeper shadow */
-.card:hover {
-  box-shadow: 0 8px 16px 0 #D37939;
+@media screen {
+  .card:hover {
+    box-shadow: 0 8px 16px 0 #D37939;
+  }
 }
 
 /* Add some padding inside the card container */
@@ -87,6 +89,10 @@
      flex-wrap: wrap;
      justify-content: space-around;
      row-gap: 25px;
+}
+
+.post {
+  hyphens: none !important;
 }
 
 
